@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "346733188222",
+    "project_id": "locationfinder-4f9c5",
+    "storage_bucket": "locationfinder-4f9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346733188222:android:686ada0177659799d1342f",
+        "android_client_info": {
+          "package_name": "com.access.findLocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346733188222-e80f1912trfc60m1m3p1eot4ffn72gfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.access.findLocation",
+            "certificate_hash": "8290b76f84850ce8aea6a989ccac8af81bf983d4"
+          }
+        },
+        {
+          "client_id": "346733188222-kijkooofp70e5i4glh288sitau9qdndq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6FQskrIr1i_W5D3QQ2UL1AH277_meB38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346733188222-kijkooofp70e5i4glh288sitau9qdndq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
